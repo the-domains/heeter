@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title><![CDATA[Jeffrey R. Heeter]]></title>
+        <description><![CDATA[Jeffrey R. Heeter]]></description>
+        <link>http://github.com/dylang/node-rss</link>
+        <generator>The Grid</generator>
+        <lastBuildDate>Wed, 10 Feb 2016 23:05:54 GMT</lastBuildDate>
+        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Benet Fight Song]]></title>
+            <description><![CDATA[<article><h1>Benet Fight Song</h1><p>Go Redwings, Go Getcha going all you loyal Benet Redwings! Go red and white! Any day or any night we're gonna fight! Fight! Fight! Fight! Our team will shine. On the court or down the field we're all together! We pledge our loyalty on the road to victory to B-E-N-E-T!</p></article>]]></description>
+            <link>undefinedbenet-fight-song/index.html</link>
+            <guid isPermaLink="false">d5510b4a-e1b8-4de8-bef8-239475a23474</guid>
+            <pubDate>Wed, 10 Feb 2016 23:05:53 GMT</pubDate>
+        </item>
+    </channel>
+</rss>
