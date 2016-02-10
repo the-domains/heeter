@@ -1,0 +1,29 @@
+name: Jeffrey R. Heeter
+favicon: null
+layout_spectrum: 0.6898109999019653
+typography_spectrum: 0.9606754281558096
+title: Jeffrey R. Heeter
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#B8B42D'
+    - '#697A21'
+    - '#FFFCE8'
+    - '#3E363F'
+    - '#DD403A'
+  brandStrength: 0.3844374264590442
+  lightness: 0.9560076026245952
+  saturation: 0.9791873604990542
+  rhythmicContrast: 0.9508139158133417
+purpose: []
